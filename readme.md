@@ -4,10 +4,6 @@
 
 This project analyzes 911 call data to extract insights and trends from emergency service calls. The analysis covers various aspects, such as call types, geographic distribution, and time-based patterns, using Python and data visualization libraries.
 
-## Project Structure
-
-- **`02_911_Calls_Data_Capstone_Project.ipynb`**: The main Jupyter Notebook containing the data analysis and visualizations for the 911 calls dataset.
-
 ## Dataset
 
 The dataset used in this project includes information on 911 emergency calls, such as:
